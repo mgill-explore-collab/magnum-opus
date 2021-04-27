@@ -2,4 +2,4 @@
 
 Project for Mgill Explore Collab. 
 
-hello world
+hello world. It's a brave new world now that I know computer science.
